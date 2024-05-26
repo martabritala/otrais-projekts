@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Brain rot</title>
+  <title>Spele</title>
  </head>
 
  <body>
